@@ -1,0 +1,15 @@
+- new simple project
+	de dung lombok can cai lombok plugin, enable anotationprocessor lombok trong build.gradle
+- deploy to cloud/container
+- spring jpa vs spring jdbc template
+	JPA: 
+- add swagger
+	
+- change datasource
+- multiple datasource
+- new local libs
+- Exeptionhandler
+- yaml suggestion for intelij
+- jwt authen
+- rabbit mq
+- kafka
